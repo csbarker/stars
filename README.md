@@ -10,6 +10,7 @@
   * [FFMPEG (Video Handling)](https://ffmpeg.org/)
   * [TCPDF (PDF Handling)](https://github.com/tecnickcom/tcpdf)
   * [Goutte (Web Scraping)](https://github.com/FriendsOfPHP/Goutte)
+  * [Carbon (DateTime Wrapper)](https://github.com/briannesbitt/carbon)
 * Frameworks
   * [Laravel](https://github.com/laravel/laravel)
   * [Symfony](https://github.com/symfony/symfony)
