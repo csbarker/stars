@@ -20,4 +20,5 @@
 * Utilities
   * [Composer (Package Manager)](https://getcomposer.org/)
   * [Packagist (Packages)](https://packagist.org/)
+  * [PHPUnit](https://phpunit.de/)
   * [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
