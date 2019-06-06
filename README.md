@@ -22,3 +22,18 @@
   * [Packagist (Packages)](https://packagist.org/)
   * [PHPUnit](https://phpunit.de/)
   * [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+
+## Node
+
+* Libraries
+  * [Cherrio (HTML Parsing)](https://github.com/cheeriojs/cheerio)
+* Other
+  * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+  
+## C#
+
+* Libraries
+  * [HAP (Web Scraping)](https://html-agility-pack.net/)
+* Other
+  * [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+  * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
