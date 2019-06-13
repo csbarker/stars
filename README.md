@@ -27,6 +27,7 @@
 
 * Libraries
   * [Cherrio (HTML Parsing)](https://github.com/cheeriojs/cheerio)
+  * [Puppeteer (Headless Chrome)](https://github.com/GoogleChrome/puppeteer/) 
 * Other
   * [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
   
