@@ -5,7 +5,7 @@
 * Libraries
   * [Faker (Fake Data Generator)](https://github.com/fzaninotto/Faker)
   * [Guzzle (HTTP Client)](https://github.com/guzzle/guzzle)
-  * [Google Authenticator (2FA)](https://github.com/Dolondro/google-authenticator)
+  * [Google2FA (2FA)](https://github.com/antonioribeiro/google2fa)
   * [Image (Image Handling)](https://github.com/Intervention/image)
   * [FFMPEG (Video Handling)](https://ffmpeg.org/)
   * [TCPDF (PDF Handling)](https://github.com/tecnickcom/tcpdf)
