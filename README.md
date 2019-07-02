@@ -50,4 +50,4 @@
 ## Angular
 
 * UI Frameworks
-  * [Nebular](https://github.com/akveo/nebular）
+  * [Nebular](https://github.com/akveo/nebular)
