@@ -43,11 +43,17 @@
 
 * Components
   * [Formik (Forms)](https://jaredpalmer.com/formik/)
+  * [react-redux (Store)](https://github.com/reduxjs/react-redux)
+  * [react-intl (i18n)](https://github.com/formatjs/react-intl)
+  * [react-spring (Animations)](https://github.com/react-spring/react-spring)
 * UI Frameworks
   * [Ant](https://ant.design/)
   * [Blueprint](https://blueprintjs.com/)
   * [Material](https://material-ui.com/)
   * [Semantic UI](https://react.semantic-ui.com/)
+* Misc
+  * [create-react-app](https://github.com/facebook/create-react-app)
+  * [awesome-react](https://github.com/enaqx/awesome-react)
 
 ## Angular
 
