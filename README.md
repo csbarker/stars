@@ -52,8 +52,10 @@
   * [Material](https://material-ui.com/)
   * [Semantic UI](https://react.semantic-ui.com/)
 * Misc
+  * [jest (Tests)](https://github.com/facebook/jest)
   * [create-react-app](https://github.com/facebook/create-react-app)
   * [awesome-react](https://github.com/enaqx/awesome-react)
+  * [storybook](https://github.com/storybookjs/storybook)
 
 ## Angular
 
