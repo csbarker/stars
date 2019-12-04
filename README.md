@@ -36,6 +36,7 @@
 
 * Libraries
   * [HAP (Web Scraping)](https://html-agility-pack.net/)
+  * [AspNetCoreRateLimit (Rate Limiting)](https://github.com/stefanprodan/AspNetCoreRateLimit)
 * Other
   * [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
   * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
